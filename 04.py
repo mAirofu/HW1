@@ -4,7 +4,8 @@ nums = from_wich
 all_nums = []
 
 if nums >= to_wich:
-    print("Oops.. something went wrong, please restart code!")
+    print("Oops.. something went wrong, please try again!")
+    break
 
 cor_num = to_wich + 1
 
